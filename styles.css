@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-body {
-    background-color: red;
-=======
+
 body{
     background-color: red;
     padding: 30px;
->>>>>>> dev
+    stroke: none;
+    font: 100;
 }
